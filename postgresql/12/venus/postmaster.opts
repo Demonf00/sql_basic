@@ -1,0 +1,1 @@
+/usr/lib/postgresql/12/bin/postgres "-D" "/var/lib/postgresql/12/venus" "-c" "config_file=/etc/postgresql/12/venus/postgresql.conf"
