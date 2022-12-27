@@ -1,0 +1,12 @@
+ shohin_id | shohin_mei |  shohin_bunrui  | hanbai_tanka | shiire_tanka |  torokubi  
+-----------+------------+-----------------+--------------+--------------+------------
+ 0007      | pan        | kitchen         |         6800 |         5000 | 2009-01-15
+ 0004      | polo shirt | clothes         |         4000 |         2800 | 
+ 0005      | knife      | kitchen         |         3000 |         2800 | 2009-09-20
+ 0001      | T-shirt    | clothes         |         1000 |          500 | 2009-09-20
+ 0008      | grater     | kitchen         |          880 |              | 2008-04-28
+ 0006      | fork       | kitchen         |          500 |              | 2009-09-20
+ 0002      | pencil     | office supplies |          500 |          320 | 2009-09-11
+ 0003      | pen        | office supplies |          100 |          320 | 2009-09-11
+(8 rows)
+
